@@ -1,1 +1,0 @@
-NewVariable = 'Exercise1 1'
